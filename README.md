@@ -6,7 +6,7 @@
 
 🔍 Además, tengo una certificación en el análisis y manejo de datos, lo que me permite aplicar técnicas eficientes en la manipulación y procesamiento de información.
 
-💡 Mi filosofía es "crea tu propio camino". Disfruto enseñando a otros sobre tecnología y me encanta asumir nuevos desafíos y proyectos web utilizando Django.
+💡 Mi filosofía es "crea tu propio camino". Disfruto enseñando a otros sobre tecnología y me encanta asumir nuevos desafíos.
 
 🌐 Siempre estoy buscando oportunidades para colaborar en proyectos emocionantes y aprender nuevas tecnologías. ¡No dudes en contactarme si quieres discutir una colaboración o simplemente charlar sobre desarrollo web!
 ¡Gracias por visitar mi perfil de GitHub!
