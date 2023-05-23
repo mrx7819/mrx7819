@@ -1,4 +1,4 @@
-# <a href='https://postimg.cc/ppjGSGcx' target='_blank'><img src='https://i.postimg.cc/ppjGSGcx/IMG-3350.png' border='0' alt='IMG-3350'/></a> Bienvenido a MRX "Aprende a tu Ritmo" 👋
+# [![IMG-3350.png](https://i.postimg.cc/FzZVYt87/IMG-3350.png)](https://postimg.cc/CnRq22Fg) Bienvenido a MRX "Aprende a tu Ritmo" 👋
 ### Freelance Igeniero Informático
 [![Banner-para-Twitch-Gamer-Streaming-Atrevido-Lila.png](https://i.postimg.cc/8kdXrxVp/Banner-para-Twitch-Gamer-Streaming-Atrevido-Lila.png)](https://postimg.cc/fkLfG2Lp)
 👋 ¡Hola! Soy MRX, un apasionado desarrollador web con experiencia en Django y amante de la tecnología.
