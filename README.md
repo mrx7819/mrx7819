@@ -1,5 +1,5 @@
 # [![IMG-3350.png](https://i.postimg.cc/9QqwS5bZ/IMG-3350.png)](https://postimg.cc/WdT4FyQ1)   Bienvenido a MRX "Aprende a tu Ritmo" 👋
-### Freelance Igeniero Informático
+### Igeniero Informático Freelance
 [![Banner-para-Twitch-Gamer-Streaming-Atrevido-Lila.png](https://i.postimg.cc/8kdXrxVp/Banner-para-Twitch-Gamer-Streaming-Atrevido-Lila.png)](https://postimg.cc/fkLfG2Lp)
 👋 ¡Hola! Soy MRX, un apasionado desarrollador web con experiencia en Django y amante de la tecnología.
 
