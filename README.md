@@ -1,3 +1,4 @@
+[![Banner-para-Twitch-Gamer-Streaming-Atrevido-Lila.png](https://i.postimg.cc/8kdXrxVp/Banner-para-Twitch-Gamer-Streaming-Atrevido-Lila.png)](https://postimg.cc/fkLfG2Lp)
 👋 ¡Hola! Soy MRX, un apasionado desarrollador web con experiencia en Django y amante de la tecnología.
 
 🎓 Actualmente, estoy estudiando Ingeniería en Informática y estoy en mi cuarto y último año. Durante mi carrera, he adquirido sólidos conocimientos en el desarrollo web utilizando HTML, CSS y Bootstrap. Además, me he especializado en Django, un potente framework de Python para construir aplicaciones web.
