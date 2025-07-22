@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Banner Vicente Fraile"/>
+</p>
+
 <h1 align="center">Hola, soy Vicente Fraile <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/6bd69ddcf3118726abbcf0aa0e0c5b6e712886b4/Assets/Hi.gif?raw=true" width="30px"></h1>
 
 <h3 align="center">Ingeniero Informático | Desarrollador Backend | Apasionado por crear</h3>
