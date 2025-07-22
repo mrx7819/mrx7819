@@ -35,5 +35,3 @@ Estoy buscando trabajo como programador en una empresa que valore verdaderamente
 
 📫 Conecta conmigo
 <p align="center"> <a href="https://www.linkedin.com/in/vicentefraile/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Vicente%20Fraile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/> </a> </p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrx7819&layout=compact&theme=react)
-
