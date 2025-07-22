@@ -1,9 +1,3 @@
-<p align="center">
-  <a href="https://drive.google.com/file/d/1RGhXG6et08DlLO61diHDMwECWV8N6yNZ/view?usp=sharing">
-    <img src="https://drive.google.com/uc?export=view&id=1RGhXG6et08DlLO61diHDMwECWV8N6yNZ" alt="Banner Vicente Fraile" />
-  </a>
-</p>
-
 
 <h1 align="center">Hola, soy Vicente Fraile <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/6bd69ddcf3118726abbcf0aa0e0c5b6e712886b4/Assets/Hi.gif?raw=true" width="30px"></h1>
 
@@ -80,3 +74,11 @@ Estoy buscando trabajo como **programador** en una empresa que valore verdaderam
 <p align="center">
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/6bd69ddcf3118726abbcf0aa0e0c5b6e712886b4/Assets/Mario_Hello_Big.gif?raw=true" width="150px">
 </p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1RGhXG6et08DlLO61diHDMwECWV8N6yNZ/view?usp=sharing">
+    <img src="https://drive.google.com/uc?export=view&id=1RGhXG6et08DlLO61diHDMwECWV8N6yNZ" alt="Banner Vicente Fraile" />
+  </a>
+</p>
+
+
