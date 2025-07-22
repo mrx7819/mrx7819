@@ -2,15 +2,37 @@
 ### Igeniero Informático Freelance
 ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1ZVbWS8FWYEWC4Qn4GmH0YYbyr9AxzMgi)
 
-👋 ¡Hola! Soy MRX, un apasionado desarrollador web con experiencia en Django y amante de la tecnología.
+👋 ¡Hola! Soy Vicente Fraile
+Soy un Ingeniero Informático con una gran pasión por imaginar, construir y desarrollar soluciones tecnológicas. Me especializo en backend, pero tengo experiencia fullstack: he diseñado interfaces, desplegado proyectos en la nube y desarrollado APIs escalables.
 
-🎓 Actualmente, estoy estudiando Ingeniería en Informática y estoy en mi cuarto y último año. Durante mi carrera, he adquirido sólidos conocimientos en el desarrollo web utilizando HTML, CSS y Bootstrap. Además, me he especializado en Django, un potente framework de Python para construir aplicaciones web.
+He trabajado en un ERP para pymes y como soporte TI de segundo nivel en LEN Ingeniería. Utilizo tecnologías como:
 
-💻 Mi experiencia también abarca el manejo de bases de datos SQL, así como el uso de Git y GitHub para el control de versiones de mis proyectos. Soy hábil en lenguajes de programación como Python, Java y TypeScript.
+<div align="center">
 
-🔍 Además, tengo una certificación en el análisis y manejo de datos, lo que me permite aplicar técnicas eficientes en la manipulación y procesamiento de información.
 
-💡 Mi filosofía es "crea tu propio camino". Disfruto enseñando a otros sobre tecnología y me encanta asumir nuevos desafíos.
 
-🌐 Siempre estoy buscando oportunidades para colaborar en proyectos emocionantes y aprender nuevas tecnologías. ¡No dudes en contactarme si quieres discutir una colaboración o simplemente charlar sobre desarrollo web!
-¡Gracias por visitar mi perfil de GitHub!
+
+
+
+
+
+
+
+
+
+</div>
+🚀 Buscando oportunidades
+Estoy buscando trabajo como programador en una empresa que valore verdaderamente el área tech.
+🔹 A corto plazo: integrarme a un equipo desafiante y creativo.
+🔹 A largo plazo: crear mi propia empresa y emprender.
+
+🎯 Sobre mí
+💡 Apasionado por crear cosas nuevas y dejar fluir mi imaginación mientras programo.
+
+🌍 Me encanta viajar y explorar el mundo.
+
+📺 Fan de las buenas series y de probar nuevas experiencias gastronómicas.
+
+📫 Conecta conmigo
+<p align="center"> <a href="https://www.linkedin.com/in/vicentefraile/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-Vicente%20Fraile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/> </a> </p>
+![Vicente's GitHub stats](https://github-readme-stats.vercel.app/api?username=vicentefraile&show_icons=true&theme=react)
