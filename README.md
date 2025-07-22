@@ -1,6 +1,9 @@
 <p align="center">
-[[  [<img src="assets/banner.png" alt="Banner Vicente Fraile"/>](https://www.canva.com/design/DAGtps8gDoQ/35qJgmT83Q2fp-izUEGsng/view?utm_content=DAGtps8gDoQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hef39e5a478)](https://drive.google.com/file/d/1RGhXG6et08DlLO61diHDMwECWV8N6yNZ/view?usp=sharing)](https://drive.google.com/file/d/1RGhXG6et08DlLO61diHDMwECWV8N6yNZ/view?usp=sharing)
+  <a href="https://drive.google.com/file/d/1RGhXG6et08DlLO61diHDMwECWV8N6yNZ/view?usp=sharing">
+    <img src="https://drive.google.com/uc?export=view&id=1RGhXG6et08DlLO61diHDMwECWV8N6yNZ" alt="Banner Vicente Fraile" />
+  </a>
 </p>
+
 
 <h1 align="center">Hola, soy Vicente Fraile <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/6bd69ddcf3118726abbcf0aa0e0c5b6e712886b4/Assets/Hi.gif?raw=true" width="30px"></h1>
 
