@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Banner Vicente Fraile"/>
+  [<img src="assets/banner.png" alt="Banner Vicente Fraile"/>](https://www.canva.com/design/DAGtps8gDoQ/35qJgmT83Q2fp-izUEGsng/view?utm_content=DAGtps8gDoQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hef39e5a478)
 </p>
 
 <h1 align="center">Hola, soy Vicente Fraile <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/6bd69ddcf3118726abbcf0aa0e0c5b6e712886b4/Assets/Hi.gif?raw=true" width="30px"></h1>
